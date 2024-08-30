@@ -1,0 +1,2 @@
+round,loss of global,MAE of global,MSE of global,Max Loss of client,Max MAE of client,Max MSE of client,Avg Loss of client,Avg MAE of client,Avg MSE of client
+100,,,,4.5631,1.4566,4.5631,4.0579,1.3758,4.0579

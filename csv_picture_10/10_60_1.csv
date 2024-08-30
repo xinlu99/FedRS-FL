@@ -1,0 +1,5 @@
+Task ID,Task Number,Start Time (s),End Time (s),Task Latency (s),CPU Freq (GHz),Total Data Size (MB),Total FLOPs (GFLOPs),Concurrent Task Count
+1-4,10,0.4547,11.1956,10.741,1.4327,16.2015,41.1
+1-7,10,0.7423,11.2572,10.5149,1.6895,11.7294,106.86
+1-8,10,0.8869,12.4041,11.5172,1.4497,11.7294,106.86
+1-2,10,0.1585,12.9586,12.8001,1.3074,26.1889,73.98
